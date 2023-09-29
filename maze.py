@@ -1,5 +1,7 @@
 import sys
 
+test_change = change
+
 class Node():
     def __init__(self, state, parent, action):
         self.state = state
